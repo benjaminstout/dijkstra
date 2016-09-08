@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CSC3430 - HW4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Skipping... (no relevant changes detected)
+  Dijkstra.cpp
+  CSC3430 - HW4.vcxproj -> C:\Users\Benjamin\OneDrive\Documents\College\CSC3430\CSC3430 - Dijkstra Algorithm\CSC3430 - HW4\Debug\Dijkstra.exe
